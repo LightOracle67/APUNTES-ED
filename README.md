@@ -1,7 +1,7 @@
 # Apuntes del módulo Entornos de Desarrollo
 
 1º DAW  
-Écija (Sevilla)  
+Montilla (Córdoba)  
 
 ![Entornos de desarrollo](img/entornosdesarrollo.png)
 
